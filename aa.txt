@@ -1,21 +1,28 @@
-1. git clone
+1. git clone 
+- git -> local로 파일 복사하기(저장)
 
 2. git diff
+- 변경 히스토리 확인
 
 3 git add .
    git add "file name"
+- local에 있는 파일 가져오기
 
 4. git status
+- local 현재 상태 확인
 
 5 git commit -m "message"
+- local 파일을 git으로 commit 업로그 할 때 "message" 입력
 
 6. git push
+- local파일을 git에 올림
 
 7. git log
+- login정보 입력
 
 8. git checkout "filename"
    git checkout -f
-
+- 파일 
 
 
 shift + insert : paste
