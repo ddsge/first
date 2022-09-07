@@ -35,3 +35,7 @@ pwd : working directory
 touch "filename" : 빈 파일 생성
 
 history : 커맨드 히스토리 확인
+
+
+10. ssh-keygen & cat ~/.ssh/id_rsa.pub
+copy ssy key to my github setting
