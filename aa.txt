@@ -24,6 +24,9 @@
    git checkout -f
 - 파일 
 
+9. git pull
+- update to neweat commit
+
 
 shift + insert : paste
 
